@@ -1,0 +1,6 @@
+{
+  "name": "Victoria Marketing Agency ERP & CRM",
+  "description": "Enterprise-grade SaaS ERP & CRM platform for Victoria Marketing Agency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
